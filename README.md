@@ -1,6 +1,6 @@
 # ProjektTS2021
 
-Temat: Proces przygotowania blachy
+Temat: Proces spawania
 
 Członkowie grupy:
   - Damian Sójka
