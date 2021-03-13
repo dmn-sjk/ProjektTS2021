@@ -8,4 +8,5 @@
   - Piotr Kwiatkowski
 
 ## Schemat procesu:
-![schemat](https://user-images.githubusercontent.com/71564608/110979388-d34ded80-8364-11eb-80cd-c477af532310.jpg)
+![schemat](https://user-images.githubusercontent.com/71564608/111038829-2ee2ae80-842b-11eb-80c3-5a4668104f7c.jpg)
+
