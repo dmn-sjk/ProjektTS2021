@@ -27,7 +27,7 @@ for indices in form_to:
         master_states[from_idx].transitions.append(transition)
 
 # execute paths
-for path in paths:
+for path in paths_master:
 
     # create a supervisor
     supervisor = Generator.create_master(master_states, master_transitions)
