@@ -1,5 +1,7 @@
 from statemachine import StateMachine, State, Transition
-
+from states import master_states
+from classGenerator import Generator
+from paths import paths_master
 
 # valid transitions for a master (indices of states from-to)
 form_to = [
